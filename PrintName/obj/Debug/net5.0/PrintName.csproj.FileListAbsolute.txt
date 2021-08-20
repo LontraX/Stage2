@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\PrintName.exe
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\PrintName.deps.json
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\PrintName.runtimeconfig.json
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\PrintName.runtimeconfig.dev.json
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\PrintName.dll
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\ref\PrintName.dll
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\bin\Debug\net5.0\PrintName.pdb
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.AssemblyInfo.cs
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.dll
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\ref\PrintName.dll
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.pdb
+C:\Users\hp\source\repos\HNG-Stage2\PrintName\obj\Debug\net5.0\PrintName.genruntimeconfig.cache
